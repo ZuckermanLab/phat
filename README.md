@@ -5,11 +5,17 @@ phat
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/phat/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/phat/branch/master)
 
 
-T Tools for Pathway Histogram Analysis of Trajectories.
+Tools for mechanistic analysis of trajectory data using the [Pathway Histogram Analysis of Trajectories (PHAT)](https://arxiv.org/abs/1810.10514) approach.
+
+
+### References
+
+- E. Suárez and D. M. Zuckerman. Pathway Histogram Analysis of Trajectories: A general strategy for quantification of molecular mechanisms. [arXiv:1810.10514](https://arxiv.org/abs/1810.10514)
+
 
 ### Copyright
 
-Copyright (c) 2021, Jeff Thompson
+Copyright (c) 2021, Zuckerman Lab
 
 
 #### Acknowledgements
