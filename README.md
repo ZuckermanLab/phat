@@ -13,12 +13,7 @@ Tools for mechanistic analysis of trajectory data using the [Pathway Histogram A
 - E. Suárez and D. M. Zuckerman. Pathway Histogram Analysis of Trajectories: A general strategy for quantification of molecular mechanisms. [arXiv:1810.10514](https://arxiv.org/abs/1810.10514)
 
 
-### Copyright
-
-Copyright (c) 2021, Zuckerman Lab
-
-
-#### Acknowledgements
+### Acknowledgements
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.6.

@@ -1,0 +1,7 @@
+name: phat
+channels:
+  - conda-forge
+dependencies:
+  - msmtools
+  - networkx
+  - ordered-set

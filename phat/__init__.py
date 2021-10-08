@@ -1,7 +1,6 @@
 """T Tools for Pathway Histogram Analysis of Trajectories."""
 
 # Add imports here
-from .phat import *
 
 # Handle versioneer
 from ._version import get_versions
